@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "start": "live-server public",
-    "babel": "babel src/playground/build-it-visible.js --out-file=public/scripts/app.js --presets=env,react --watch"
+    "babel": "babel src/playground/es6-classes.js --out-file=public/scripts/app.js --presets=env,react --watch"
   },
   "dependencies": {
     "babel-preset-env": "1.5.2",
